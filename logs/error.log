@@ -1,0 +1,21 @@
+2013/08/08 21:29:35 [error] 30766#0: *1 open() "/etc/directhost.bg/nginx/html/favicon.ico" failed (2: No such file or directory), client: 31.13.223.60, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "158.58.238.148"
+2013/08/08 21:30:30 [emerg] 30796#0: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:30:30 [emerg] 30797#0: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:33:35 [error] 30766#0: *3 open() "/etc/directhost.bg/nginx/html/viewforum.php" failed (2: No such file or directory), client: 66.249.75.85, server: localhost, request: "GET /viewforum.php?f=6 HTTP/1.1", host: "zeepher.com"
+2013/08/08 21:50:47 [emerg] 31465#0: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:50:47 [emerg] 31466#0: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:51:03 [emerg] 31485#0: unexpected end of file, expecting ";" or "}" in /etc/mime.types:1919
+2013/08/08 21:51:03 [emerg] 31487#0: unexpected end of file, expecting ";" or "}" in /etc/mime.types:1919
+2013/08/08 21:51:21 [emerg] 31509#0: open() "/etc/directhost.bg/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:51:21 [emerg] 31510#0: open() "/etc/directhost.bg/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:51:29 [emerg] 31527#0: open() "/etc/directhost.bg/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:51:30 [emerg] 31528#0: open() "/etc/directhost.bg/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:51:39 [emerg] 31545#0: open() "/etc/directhost.bg/conf/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:51:39 [emerg] 31546#0: open() "/etc/directhost.bg/conf/mime.types" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:14
+2013/08/08 21:52:09 [emerg] 31576#0: open() "/etc/directhost.bg/nginx/conf/fastcgi_cache" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:32
+2013/08/08 21:52:09 [emerg] 31577#0: open() "/etc/directhost.bg/nginx/conf/fastcgi_cache" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:32
+2013/08/08 21:57:36 [error] 30766#0: *4 open() "/etc/directhost.bg/nginx/html/user/register" failed (2: No such file or directory), client: 66.249.75.85, server: localhost, request: "GET /user/register HTTP/1.1", host: "zeepher.com"
+2013/08/08 22:01:21 [emerg] 31946#0: open() "/etc/directhost.bg/nginx/conf/fastcgi_cache" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:32
+2013/08/08 22:01:21 [emerg] 31947#0: open() "/etc/directhost.bg/nginx/conf/fastcgi_cache" failed (2: No such file or directory) in /etc/directhost.bg/nginx/conf/nginx.conf:32
+2013/08/08 22:09:04 [emerg] 3407#0: no host in ":80" of the "listen" directive in /etc/directhost.bg/nginx/conf/nginx.conf:31
+2013/08/08 22:09:04 [emerg] 3408#0: no host in ":80" of the "listen" directive in /etc/directhost.bg/nginx/conf/nginx.conf:31
